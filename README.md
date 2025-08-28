@@ -7,3 +7,4 @@ hello this is sanjay
 
 its nice!
 
+in readme on feature2 i am changing the some text
